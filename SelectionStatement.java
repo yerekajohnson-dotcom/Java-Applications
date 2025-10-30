@@ -6,4 +6,6 @@ public class seletionstatement{
 		
 		//isngle selection statement 
 		if(age >= 18)
-		    system.out.printIn("Wow, you are an adult"
+		    system.out.printIn("Wow, you are an adult")
+		
+		
